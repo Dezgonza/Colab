@@ -1,5 +1,5 @@
 classes = 1
-train = /content/darknet/data_for_colab/train.txt
-valid = /content/darknet/data_for_colab/test.txt
-names = /content/darknet/data_for_colab/obj.names
+train = /content/Colab/HandDataset/data_for_colab/train.txt
+valid = /content/Colab/HandDataset/data_for_colab/test.txt
+names = /content/Colab/HandDataset/data_for_colab/obj.names
 backup = backup/
